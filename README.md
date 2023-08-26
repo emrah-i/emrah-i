@@ -1,10 +1,11 @@
 <h1 align="center">Hi, I'm Emrakh Ibragimov</h1>
-<h3 align="center">A full stack craftsman weaving functionality across the stack</h3>
+<h3 align="center">A Full Stack Craftsman Weaving Functionality Across the Stack</h3>
 
+<!-- 
 <h2>Portfolio:</h2>
 
 <h2></h2>
-
+-->
 <br/>
 
 <h2>A Little About Me:</h2>
@@ -12,18 +13,25 @@
 <p>In today's fast-changing tech world, I'm skilled at unraveling complex challenges and crafting simple fixes. Whether I'm building easy-to-use interfaces or fine-tuning server performance, I'm always eager to learn and adapt, adding new skills to my toolbox. I also really enjoy teaming up with other developers, designers, and thinkers to create projects that shine through collaboration.</p>
 <p>I approach each task with a hands-on attitude and a willingness to learn, making sure that the full stack solutions I provide not only handle the real-world intricacies but excel in them.
 </p>
+<h3>🌱 I’m currently learning:</h3>
+
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
+
+<h3>🔗 Connect with me:</h3>
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/emrakh-ibragimov-b08068195) [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://www.leetcode.com/emrahi)
+
 <h2></h2>
 
 <br/>
-
-<h2>Projects:</h2>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=emrah-i)](https://git.io/streak-stats)
 
+<!-- 
+<h2>Projects:</h2>
 
 <h2></h2>
-
-<br/>
+-->
 
 <h2>Tech Stack:</h2>
 
@@ -33,15 +41,9 @@
 
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) 
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Jinja](https://img.shields.io/badge/jinja-black.svg?style=for-the-badge&logo=jinja&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emrah-i&layout=donut)](https://github.com/emrah-i)
 <h2></h2>
 
 <br/>
-
-<h2 align="left">Connect with me:</h2>
-<p align="left">
-<a href="https://linkedin.com/in/emrakh-ibragimov-b08068195" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emrakh-ibragimov-b08068195" height="30" width="40" /></a>
-</p>
-<h2></h2>
