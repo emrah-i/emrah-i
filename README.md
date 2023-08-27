@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Emrakh Ibragimov</h1>
+<h1 align="center">Hello, I'm Emrakh Ibragimov</h1>
 <h3 align="center">A Full Stack Craftsman Weaving Functionality Across the Stack</h3>
 
 <!-- 
@@ -8,7 +8,7 @@
 -->
 <br/>
 
-<h2>A Little About Me:</h2>
+<h2>👨🏻‍💻 A Little About Me:</h2>
 
 <p>I'm a pragmatic Full Stack Developer who excels at problem-solving and devising intelligent solutions. My primary objective is to establish a seamless connection between user-friendly interfaces and the robust capabilities of server-side functionality.</p>
 
@@ -28,15 +28,13 @@
 
 <br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=emrah-i)](https://git.io/streak-stats)
-
 <!-- 
 <h2>Projects:</h2>
 
 <h2></h2>
 -->
 
-<h2>Tech Stack:</h2>
+<h2>💻 Tech Stack:</h2>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 
@@ -50,3 +48,5 @@
 <h2></h2>
 
 <br/>
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=emrah-i)](https://git.io/streak-stats)
