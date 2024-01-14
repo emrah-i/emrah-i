@@ -10,11 +10,11 @@
 
 <h2>👨🏻‍💻 A Little About Me:</h2>
 
-<p>I'm a practical Full Stack Developer who's great at problem-solving and creating smart solutions. My main goal is to connect user-friendly interfaces with powerful server-side functionality.</p>
+<p>I'm a Full Stack Developer who's got a knack at problem-solving and creating intelligent solutions. My main goal is to connect user-friendly interfaces with powerful server-side functionality.</p>
 
-<p>In the ever-changing tech world, I love tackling challenges and finding simple solutions. Whether I'm designing user interfaces or optimizing server performance, I'm always eager to learn and collaborate with others for better results.</p>
+<p>In the ever-changing tech world, I love tackling new challenges and finding the best solutions. Whether I'm designing user interfaces or optimizing server performance, I'm always eager to learn and collaborate with others for better results.</p>
 
-<p>I approach each project with a hands-on mindset and a strong focus on learning, making sure my full stack solutions work well in the real world</p>
+<p>I approach each project with a hands-on mindset and a strong focus on learning, making sure my full stack solutions work well in the real world.</p>
 
 <h3>🌱 I’m currently learning:</h3>
 
