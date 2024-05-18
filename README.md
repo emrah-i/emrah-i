@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Emrakh Ibragimov</h1>
-<h3 align="center">A Full Stack Craftsman Weaving Functionality Across the Stack</h3>
+<h3 align="center">Full Stack Devloper</h3>
 
 <!-- 
 <h2>Portfolio:</h2>
@@ -10,7 +10,7 @@
 
 <h2>👨🏻‍💻 A Little About Me:</h2>
 
-<p>I'm a Full Stack Developer who's got a knack at problem-solving and creating intelligent solutions. My main goal is to connect user-friendly interfaces with powerful server-side functionality.</p>
+<p>I'm a Full Stack Developer who's got a passion at problem-solving and creating intelligent solutions. My main goal is to connect user-friendly interfaces with powerful server-side functionality.</p>
 
 <p>In the ever-changing tech world, I love tackling new challenges and finding the best solutions. Whether I'm designing user interfaces or optimizing server performance, I'm always eager to learn and collaborate with others for better results.</p>
 
